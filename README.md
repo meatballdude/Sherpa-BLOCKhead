@@ -19,10 +19,14 @@ Mounting Mini Shperpa
 
 6- M3x5x5 Threaded inserts  
 
+17mm length of bowden tube
+
 1. Print all the parts in ABS or ASA.  
 2. Inserts go into the body part on the sides and top.  
 3. Mount the body onto the X Carriage using the M3-30mm BHCS  
 4. Mount the Hotend to the body  
 5. Put the fans in the blowers, and mount them to the body using the M3x6mm BHCS    
+6. Put the boden tube section into the body and down to the hotend entrance
+7. Mount the mini sherpa on top   
 
 Route the wires and Happy Printing!!

@@ -7,12 +7,13 @@ This will fit on the stock carriage.
 
 ![BLOCKhead](images/blockheadexploded.png)
 
-##Build Instructions
+## Build Instructions
 
-###Parts Needed  
+### Parts Needed  
 Body and sides   
 4- M3x6mm BHCS or SHCS  
 2- M3x30mm BHCS or SCHS  
+
 Mounting Mini Shperpa  
 2- M3x12mm  
 

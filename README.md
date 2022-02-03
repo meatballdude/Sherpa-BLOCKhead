@@ -1,7 +1,8 @@
 # Sherpa-BLOCKhead Version 0.1
 
 This is an alternate toolhead for the Voron V0.1 using the [Mini-Sherpa](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) extruder.
-This will fit on the stock carriage.
+This will fit on the stock V0.1 carriage.   
+We are still at a very early development stage. If you use it, feedback is welcomed. 
 
 ![BLOCKhead](images/blockheadwithsherpa.png)
 
@@ -26,7 +27,7 @@ Mounting Mini Shperpa
 3. Mount the body onto the X Carriage using the M3-30mm BHCS  
 4. Mount the Hotend to the body  
 5. Put the fans in the blowers, and mount them to the body using the M3x6mm BHCS    
-6. Put the boden tube section into the body and down to the hotend entrance
+6. Put the bowden tube section into the body and down to the hotend entrance
 7. Mount the mini sherpa on top   
 
 Route the wires and Happy Printing!!

@@ -1,4 +1,4 @@
-# Sherpa-BLOCKhead Version 0.2
+# Sherpa-BLOCKhead Version 0.1
 
 This is an alternate toolhead for the Voron V0.1 using the [Mini-Sherpa](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) extruder.
 This will fit on the stock V0.1 carriage.   

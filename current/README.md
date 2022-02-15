@@ -12,9 +12,9 @@ We are still at a very early development stage. If you use it, feedback is welco
 
 ### Parts Needed  
 Body and sides   
-2- M3x6mm BHCS or SHCS (blower sides)
-2- M3x8mm BHCS or SHCS  (blower front)
-2- M3x25mm BHCS or SCHS
+2- M3x6mm BHCS or SHCS (blower sides)   
+2- M3x8mm BHCS or SHCS  (blower front)   
+2- M3x25mm BHCS or SCHS   
 
 Mounting Mini Shperpa  
 2- M3x12mm  
@@ -23,8 +23,8 @@ Mounting Mini Shperpa
 
 21mm length of bowden tube
 
-1. Print all the parts in ABS or ASA.  
-2. Inserts go into the main body part on the sides and top.  
+1. Print all the parts in ABS or ASA  
+2. Inserts go into the main body part on the sides and top  
 3. Mount the body onto the X Carriage using the M3-25mm BHCS  
 4. Mount the Hotend to the body  
 5. Put the fans in the blowers, and mount them to the body using the M3x6mm BHCS    

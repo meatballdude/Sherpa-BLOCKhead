@@ -34,11 +34,11 @@ Mounting Mini Shperpa
 Route the wires and Happy Printing!!
 
 ### Release notes
-2/1/22 0.1 released
+2/1/22 0.1 released  
 
-2/15/22 0.2 released
--Rebuilt from scratch
--Main body has chamfered corners for easier blower mounting
--Blower frames rebuilt with better air ducts
--Blowers made slightly wider for cable routing
--Added a set of blowers for the Dragon hotend fan
+2/15/22 0.2 released  
+-Rebuilt from scratch  
+-Main body has chamfered corners for easier blower mounting  
+-Blower frames rebuilt with better air ducts  
+-Blowers made slightly wider for cable routing  
+-Added a set of blowers for the Dragon hotend fan  

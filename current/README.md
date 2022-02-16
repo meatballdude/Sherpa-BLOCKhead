@@ -44,7 +44,7 @@ Route the wires and Happy Printing!!
 -Blowers made slightly wider for cable routing  
 -Added a set of blowers for the Dragon hotend fan  
 
-2/15/22 0.3 released
+2/15/22 0.3 released   
 -Changed fillets to chamfers for better printing and aesthetics  
 -Minor changes to Dragon blowers   
 -Created STL files properly aligned for printing

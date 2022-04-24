@@ -1,4 +1,4 @@
-# Sherpa-BLOCKhead Version 0.4
+# Sherpa-BLOCKhead Version 0.35
 
 This is an alternate toolhead for the Voron V0.1 using the [Mini-Sherpa](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) extruder.
 This will fit on the stock V0.1 carriage.     
@@ -14,14 +14,13 @@ We are still at a very early development stage. If you use it, feedback is welco
 ### Parts Needed  
 Body and sides   
 2- M3x6mm BHCS or SHCS (blower sides)   
-2- M3x8mm BHCS or SHCS  (blower front- 6mm for Dragon)   
+2- M3x8mm BHCS or SHCS  (blower front)   
 2- M3x25mm BHCS or SCHS   
 
 Mounting Mini Shperpa  
 2- M3x12mm  
 
-6- M3x5x5 Threaded inserts
-Dragon mount body changes the 2 front inserts to 3mm 
+6- M3x5x5 Threaded inserts  
 
 21mm length of bowden tube
 
@@ -52,6 +51,3 @@ Route the wires and Happy Printing!!
 
 2/21/22 0.35 released    
 -Removed duct wings
-
-4/24/2022 0.4 released
--Modified Main body for Dragon toolhead mounting. Previous version had the wrong screw locations

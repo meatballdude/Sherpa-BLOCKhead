@@ -17,7 +17,7 @@ Body and sides
 2- M3x8mm BHCS or SHCS  (blower front)   
 2- M3x25mm BHCS or SCHS   
 
-Mounting Mini Shperpa  
+Mounting Mini Sherpa  
 2- M3x12mm  
 
 6- M3x5x5 Threaded inserts  
